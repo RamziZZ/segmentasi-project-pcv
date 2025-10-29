@@ -3,7 +3,7 @@ from src.background_remover import SmartBackgroundRemover
 
 if __name__ == "__main__":
     input_folder = "data/input"
-    output_folder = "data/output2"
+    output_folder = "data/output"
 
     remover = SmartBackgroundRemover()
 
